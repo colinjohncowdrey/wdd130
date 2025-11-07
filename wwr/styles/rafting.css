@@ -38,22 +38,10 @@ nav, p, section, article {
     padding: 8px;
 }
 
-/* .socialmedia a{
+.socialmedia a{
     text-decoration: none;
     width: 50px;
-} */
-
-.socialmedia a {
-    text-decoration: none;
-    display: inline-block;
-    margin: 0 10px;
 }
-
-.socialmedia img {
-    width: 50px;
-    height: auto;
-}
-
 
 .hero {
     position: relative
