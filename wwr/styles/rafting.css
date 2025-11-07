@@ -38,6 +38,10 @@ nav, p, section, article {
     padding: 8px;
 }
 
+.socialmedia {
+    text-decoration: none;
+}
+
 .socialmedia a {
     text-decoration: none;
 }
