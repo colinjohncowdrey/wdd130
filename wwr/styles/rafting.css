@@ -34,8 +34,9 @@ nav, p, section, article {
     padding: 8px;
 }
 
-.socialmedia{
+.socialmedia a{
     text-decoration: none;
+    width: 50px;
 }
 .hero {
     position: relative
