@@ -37,11 +37,8 @@ nav, p, section, article {
     margin:16px;
     padding: 8px;
 }
-.socialmedia{
-    width: 50px
-}
 
-.socialmedia a {
+.socialmedia{
     text-decoration: none;
 }
 
