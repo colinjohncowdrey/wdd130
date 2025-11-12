@@ -18,7 +18,7 @@ header {
   padding: 1rem;
   width: 840px;
   margin: 0 auto;
-  background-color: var(--primary-color);
+  background-color: var(--primary-colour);
   color: var(--colour2);
 }
 img {
@@ -45,7 +45,7 @@ header, main, footer {
 h1, h2 {
   font-family: var(--heading-font);
   color: var(--colour2); 
-  background-color: var(--primary-color);
+  background-color: var(--primary-colour);
   text-align: center;
   width: 840px;
 } 
