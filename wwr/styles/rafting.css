@@ -19,7 +19,7 @@ header {
   width: 840px;
   margin: 0 auto;
   background-color: var(--primary-color);
-  color: var(--colour1);
+  color: var(--colour2);
 }
 img {
   justify-self: center;
